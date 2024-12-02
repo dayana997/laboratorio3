@@ -1,0 +1,21 @@
+/*estilos para el cuerpo*/
+
+body{font-family: cursive
+}
+body{background-color: rgb(248, 250, 245);
+
+}
+header{ 
+background-color: rgb(157, 219, 219);
+}
+
+p {
+    font-weight: bold;} 
+#p1{
+    background-color: rgb(105, 148, 173);
+}
+.perfil{
+    width:  40%;
+    border: 5px solid coral;
+    border-radius: 4%;
+}
